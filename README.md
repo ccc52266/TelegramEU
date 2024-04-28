@@ -1,7 +1,7 @@
 # TelegramEU
 IP-ASN,62041,no-resolve
 IP-ASN,211157,no-resolve
-IP-CIDR,5.28.192.0/18no-resolve
+IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,5.28.192.0/18,no-resolve
