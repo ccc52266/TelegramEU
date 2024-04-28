@@ -14,4 +14,4 @@ IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/21,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
-IP-CIDR6,2a0a:f280:203::/48,no-resolveuj
+IP-CIDR6,2a0a:f280:203::/48,no-resolve
